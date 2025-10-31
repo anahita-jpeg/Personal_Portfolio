@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Modern Developer Portfolio
 
 A stunning, interactive, and fully responsive developer portfolio website built with Next.js 14+, TypeScript, Tailwind CSS, and Framer Motion.
@@ -187,3 +188,6 @@ For any questions or feedback, feel free to reach out:
 **Note:** Remember to replace all placeholder content (name, email, links, images, etc.) with your actual information before deploying!
 
 Made with ❤️ and lots of ☕
+=======
+# Personal_Portfolio
+>>>>>>> fea5fe28d7d800f610a3e2f293eb38dddb449b5e
